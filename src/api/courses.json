@@ -1,0 +1,800 @@
+{
+    "courses" : [
+
+        {
+            "id": 0,
+            "name": "React",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/react.svg",
+            "color": "#bbdefb",
+            "hours": "40,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 2,
+                "name": "Carla Angola",
+                "image": "/static/avatar/1.jpg"
+            },
+            "category": {
+                "id": 1,
+                "name": "Frontend",
+                "color": "#E3F2FD"
+            },
+            "lessons": [
+                {
+                    "id": 81,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 80,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 81,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 82,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 82,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 83,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 84,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 85,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 83,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 86,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 87,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 88,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "name" : "Angular",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image" : "/static/iconos/angular.svg",
+            "color" : "#6C757D",
+            "hours" : "30,3",
+            "numberClass" : "60",
+            "level" : "intermedio",
+
+            "teacher" : {
+                "id" : 1,
+                "name" : "Carlos Escorche",
+                "image" : "/static/avatar/2.jpg"
+            },
+
+            "category" : {
+                "id" : 1,
+                "name" : "Frontend",
+                "color" : "#E3F2FD"
+            },
+            
+            "lessons" : [
+                {
+                    "id": 1,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 1,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 4,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 5,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 6,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 7,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 8,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Javascript",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/javascript.svg",
+            "color": "#4D566D",
+            "hours": "15,3",
+            "numberClass": "9",
+            "level": "Básico",
+            "teacher": {
+                "id": 2,
+                "name": "Carla Angola",
+                "image": "/static/avatar/1.jpg"
+            },
+            "category": {
+                "id": 1,
+                "name": "Frontend",
+                "color": "#E3F2FD"
+            },
+            "lessons": [
+                {
+                    "id": 5,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 20,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 21,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 22,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 23,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 24,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 25,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 26,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 27,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 28,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Node",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/nodejs.svg",
+            "color": "#ADD9BD",
+            "hours": "50,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 1,
+                "name": "Carlos Escorche",
+                "image": "/static/avatar/2.jpg"
+            },
+            "category": {
+                "id": 2,
+                "name": "Backend",
+                "color": "#ADD9BD"
+            },
+            "lessons": [
+                {
+                    "id": 8,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 20,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 21,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 22,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 23,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 24,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 25,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 26,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 27,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 28,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Python",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/python.svg",
+            "color": "#dcedc8",
+            "hours": "90,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 2,
+                "name": "Carla Angola",
+                "image": "/static/avatar/1.jpg"
+            },
+            "category": {
+                "id": 2,
+                "name": "Backend",
+                "color": "#ADD9BD"
+            },
+            "lessons": [
+                {
+                    "id": 31,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 30,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 31,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 32,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id":32,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 33,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 34,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 35,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 36,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 37,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 38,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Typescript",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/typescript.svg",
+            "color": "#b3e5fc",
+            "hours": "90,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 1,
+                "name": "Carlos Escorche",
+                "image": "/static/avatar/2.jpg"
+            },
+            "category": {
+                "id": 1,
+                "name": "Frontend",
+                "color": "#E3F2FD"
+            },
+            "lessons": [
+                {
+                    "id": 41,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 40,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 41,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 42,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 43,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 44,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 45,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 46,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 47,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 48,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Vuejs",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/vuejs.svg",
+            "color": "#c8e6c9",
+            "hours": "90,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 2,
+                "name": "Carla Angola",
+                "image": "/static/avatar/1.jpg"
+            },
+            "category": {
+                "id": 1,
+                "name": "Frontend",
+                "color": "#E3F2FD"
+            },
+            "lessons": [
+                {
+                    "id": 51,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 50,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 51,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 52,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 53,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 54,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 55,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 53,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 56,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 57,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 58,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Git",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/git.svg",
+            "color": "#ffecb3",
+            "hours": "60,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 1,
+                "name": "Carlos Escorche",
+                "image": "/static/avatar/2.jpg"
+            },
+            "category": {
+                "id": 3,
+                "name": "DevOps",
+                "color": "#c5cae9"
+            },
+            "lessons": [
+                {
+                    "id": 61,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 60,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 61,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 62,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id":62,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 63,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 64,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 65,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 53,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 56,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 57,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 58,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Webpack",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos toud duty ullamco laboris nisi ut aliquip ex ea commodo consecuat.",
+            "image": "/static/iconos/webpack.svg",
+            "color": "#b3e5fc",
+            "hours": "40,3",
+            "numberClass": "9",
+            "level": "Avanzado",
+            "teacher": {
+                "id": 2,
+                "name": "Carla Angola",
+                "image": "/static/avatar/1.jpg"
+            },
+            "category": {
+                "id": 1,
+                "name": "Frontend",
+                "color": "#E3F2FD"
+            },
+            "lessons": [
+                {
+                    "id": 71,
+                    "name": "Example lesson 1 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 70,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 71,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 72,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 72,
+                    "name": "Example lesson 2 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 73,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 74,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 75,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": 73,
+                    "name": "Example lesson 3 lorem ipsum",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "class": [
+                        {
+                            "id": 76,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 77,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        },
+                        {
+                            "id": 78,
+                            "description": "Example class lorem ipsum",
+                            "video": "https://mdn.github.io/learning-area/javascript/apis/video-audio/finished/video/sintel-short.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+.VideoPlayer {
+  width: 100%;
+  position: relative;
+  background:'#0d0d0d';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="43px" viewBox="0 0 41 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>angular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-739.000000, -1694.000000)" fill-rule="nonzero">
+            <g id="seccion-exp" transform="translate(0.000000, 1248.000000)">
+                <g id="angular" transform="translate(730.000000, 424.000000)">
+                    <g transform="translate(9.352083, 22.000000)" id="Shape">
+                        <polygon fill="#E23237" points="0 7.12707622 19.7753918 0 40.0833333 7.00035497 36.7951369 33.4655382 19.7753918 43 3.02192155 33.5922594"></polygon>
+                        <polygon fill="#B52E31" points="40.0833333 7.00035497 20.0416667 0 20.0416667 43 36.8382512 33.4814379"></polygon>
+                        <path d="M20.127198,4.69090909 L7.70833333,32.7562317 L12.3476054,32.6760998 L14.8409467,26.344873 L25.9816947,26.344873 L28.7117127,32.7562317 L33.1458333,32.8363636 L20.127198,4.69090909 Z M20.1588816,13.6827412 L24.3563257,22.5942804 L16.4661573,22.5942804 L20.1588816,13.6827412 Z" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
